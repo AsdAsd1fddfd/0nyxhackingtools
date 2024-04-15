@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pyautogui
+openai
+stem
+pyttsx3
+opencv-python
+google-images-search
